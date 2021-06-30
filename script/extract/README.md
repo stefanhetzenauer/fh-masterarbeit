@@ -1,0 +1,1 @@
+Um die `extract_*` Scripts verwenden zu können, muss die Dependency [jpeg2dct](https://github.com/uber-research/jpeg2dct) installiert sein.
